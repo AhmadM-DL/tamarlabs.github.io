@@ -1,0 +1,26 @@
+.tamarstyle-text {
+  outline-color: transparent !important;
+  outline-style: none !important;
+}
+
+.tamarstyle-container {}
+.tamarstyle-container-fadein {
+  display: none;
+}
+
+.tamarstyle-fontsized {
+  line-height: normal;
+}
+
+
+.tamarstyle-link {
+  min-width: 10px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+
+.tamarstyle-image {
+	max-width: 100%;
+}
+
